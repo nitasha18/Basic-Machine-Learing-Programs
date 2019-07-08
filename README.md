@@ -4,6 +4,6 @@ Contains few programs illustrating the basic prediction and classification using
 
 1. Gender Classification
 2. House Price Prediction
-3. Load Prediction
+3. Loan Prediction
 4. Sales Prediction
-5. Waether prediction
+5. Weather Prediction
